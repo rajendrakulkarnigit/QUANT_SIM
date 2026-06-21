@@ -1,5 +1,8 @@
 /.venv/
 /.idea/
 config/config.yaml
+
+# Target the directory name at any depth level
 __pycache__/
+
 *.py[cod]
