@@ -1,5 +1,5 @@
 /.venv/
 /.idea/
-config/config.yaml/
+config/config.yaml
 __pycache__/
 *.py[cod]
