@@ -1,6 +1,7 @@
 /.venv/
 /.idea/
 config/config.yaml
+config/credentials.yaml
 data/Instruments.csv
 
 # Target the directory name at any depth level
