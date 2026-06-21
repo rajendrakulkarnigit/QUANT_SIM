@@ -19,3 +19,5 @@ git commit -m "your message"
 git push
 
 git pull
+
+git rm --cached <filename>
