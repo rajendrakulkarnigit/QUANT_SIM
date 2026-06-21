@@ -1,4 +1,0 @@
-zerodha:
-  user_id: Zerodha user id
-  password: password
-  totp_secret: TOTP token
