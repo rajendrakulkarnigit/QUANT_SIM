@@ -5,5 +5,4 @@ data/Instruments.csv
 
 # Target the directory name at any depth level
 __pycache__/
-
 *.py[cod]
