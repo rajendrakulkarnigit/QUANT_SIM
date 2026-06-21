@@ -12,3 +12,10 @@ It reflects:
 
 # Install Project
 pip install -r requirements.txt
+
+# GIT
+git add .
+git commit -m "your message"
+git push
+
+git pull
