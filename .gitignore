@@ -1,6 +1,7 @@
 /.venv/
 /.idea/
 config/config.yaml
+data/Instruments.csv
 
 # Target the directory name at any depth level
 __pycache__/
