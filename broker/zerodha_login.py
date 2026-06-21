@@ -1,7 +1,6 @@
 import pyotp
 import requests
 
-
 def get_enctoken(userid, password, totp_secret):
 
     session = requests.Session()
